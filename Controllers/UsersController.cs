@@ -43,5 +43,17 @@ namespace PocketBook.Controllers
 
             return Ok(user);
         }
+
+        // get all players
+        [HttpGet]
+        public async Task<IActionResult> GetItems()
+        {
+            var users = await _unitOfWork.Users.All();
+            if (users == null)
+            {
+                return NotFound();
+            }
+            return Ok(users);
+        }
     }    
 }
