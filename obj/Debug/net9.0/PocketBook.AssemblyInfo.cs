@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocketBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3e0848f166638e80f9449311870e3e6a063186f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

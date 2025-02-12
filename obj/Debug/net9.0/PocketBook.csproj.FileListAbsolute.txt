@@ -145,3 +145,4 @@ C:\Users\fazius\GitHub_projects\PocketBook\obj\Debug\net9.0\refint\PocketBook.dl
 C:\Users\fazius\GitHub_projects\PocketBook\obj\Debug\net9.0\PocketBook.pdb
 C:\Users\fazius\GitHub_projects\PocketBook\obj\Debug\net9.0\PocketBook.genruntimeconfig.cache
 C:\Users\fazius\GitHub_projects\PocketBook\obj\Debug\net9.0\ref\PocketBook.dll
+C:\Users\fazius\GitHub_projects\PocketBook\obj\Debug\net9.0\PocketBook.sourcelink.json
